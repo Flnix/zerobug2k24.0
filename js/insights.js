@@ -18,7 +18,7 @@ function validateLogin() {
   // For demonstration purposes, let's assume the login is successful for username "demo" and password "password123".
   if (username === "Zer0Bug" && password === "Any@Way_Yuo-F0und=!t!") {
     alert("Login successful!");
-    alert("Flag:ZeroBug{We_F0u^d@Yu0$K^0w=H0w|T0%Get[The]FL@G}")
+    alert("Flag1:ZeroBug{We_F0u^d@Yu0$K^0w=H0w|T0%Get[The]FL@G}")
     // You can redirect to a new page here if the login is successful.
     // window.location.href = "dashboard.html";
   } else {
